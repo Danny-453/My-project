@@ -1,2 +1,0 @@
-This is line #1 of bar.txt
-This is the wrong content here.
